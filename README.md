@@ -1,6 +1,6 @@
 # Leet-code-daily-solutions
 
-In this repository I post daily solutions from LeetCode and try to maitain my daily streak to keep a record
+In this repository I post daily solutions from LeetCode and try to maitain my daily streak to keep a record.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -8,21 +8,21 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Array
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| [0645-set-mismatch](https://leetcode.com/problems/set-mismatch/) |
+| [0167-Two-Sum-II-Input-Array-is-Sorted](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0167-Two-Sum-II-Input-Array-is-Sorted) |
+| [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
 
 ## Two Pointers
 |  |
 | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| [0167-Two-Sum-II-Input-Array-is-Sorted](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0167-Two-Sum-II-Input-Array-is-Sorted) |
 
 ## Hash Table
 |  |
 | ------- |
-| [0645-set-mismatch](https://leetcode.com/problems/set-mismatch/) |
+| [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
 
 ## Sorting
 |  |
 | ------- |
-| [0645-set-mismatch](https://leetcode.com/problems/set-mismatch/) |
+| [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
 <!---LeetCode Topics End-->
