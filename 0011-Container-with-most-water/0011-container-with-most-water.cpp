@@ -10,7 +10,6 @@ public:
             maxWater = max(maxWater,currWater);
             height[l]<height[r] ? l++ : r-- ;
         }
-        
         return maxWater ;
     }
 };
