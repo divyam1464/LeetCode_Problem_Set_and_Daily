@@ -10,6 +10,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | ------- |
 | [0011-Container-With-Most-Water](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0011-Container-With-Most-Water) |
 | [0015-Three-Sum](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0015-Three-Sum) |
+| [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
 | [0167-Two-Sum-II-Input-Array-is-Sorted](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0167-Two-Sum-II-Input-Array-is-Sorted) |
 | [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
 
@@ -34,5 +35,11 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Hash Table
 |  |
 | ------- |
+| [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
 | [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
+
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
 <!---LeetCode Topics End-->
