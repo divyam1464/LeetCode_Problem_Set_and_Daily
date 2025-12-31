@@ -13,6 +13,7 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 | [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
 | [0167-Two-Sum-II-Input-Array-is-Sorted](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0167-Two-Sum-II-Input-Array-is-Sorted) |
 | [0645-Set-Mismatch](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0645-Set-Mismatch) |
+| [2527-Find-Xor-Beauty-of-Array](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/2527-Find-Xor-Beauty-of-Array) |
 
 ## Two Pointers
 |  |
@@ -42,4 +43,5 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 |  |
 | ------- |
 | [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
+| [2527-Find-Xor-Beauty-of-Array](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/2527-Find-Xor-Beauty-of-Array) |
 <!---LeetCode Topics End-->
