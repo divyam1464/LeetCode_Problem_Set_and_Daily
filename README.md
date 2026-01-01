@@ -42,6 +42,12 @@ In this repository I post daily solutions from LeetCode and try to maitain my da
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-Divide-Two-Integers](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0029-Divide-Two-Integers) |
 | [0136-Single-Number](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0136-Single-Number) |
 | [2527-Find-Xor-Beauty-of-Array](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/2527-Find-Xor-Beauty-of-Array) |
+
+## Math
+|  |
+| ------- |
+| [0029-Divide-Two-Integers](https://github.com/divyam1464/LeetCode_Problem_Set_and_Daily/tree/main/0029-Divide-Two-Integers) |
 <!---LeetCode Topics End-->
